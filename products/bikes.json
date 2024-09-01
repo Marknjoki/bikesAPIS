@@ -1,0 +1,103 @@
+[
+    {
+        "name": "Kawasaki ninja 400",
+        "model": 2024,
+        "color": "green",
+        "weight": "168kg",
+        "seat_height": "785mm",
+        "cc": 400,
+        "price": 5899,
+        "description": "The Kawasaki Ninja 400 is a versatile and lightweight sportbike equipped with a 399cc parallel-twin engine, offering an impressive balance of power and maneuverability. It features a comfortable riding position, modern styling, and advanced safety features such as ABS, making it ideal for both new riders and experienced enthusiasts. With its responsive handling and efficient performance, the Ninja 400 excels in urban commuting and spirited weekend rides.",
+        "image": "https://content2.kawasaki.com/ContentStorage/KMA/Products/12113/698d14f4-d364-4e0f-8ad2-75431061fd32.png?w=675"
+    },
+    {
+        "name": "Honda CBR 650R",
+        "model": 2024,
+        "color": "black",
+        "weight": "208kg",
+        "seat_height": "810 mm",
+        "cc": 650,
+        "price": 2500,
+        "description": "Four-cylinder middleweight sports motorcycles are rare, beautiful things. The CBR650R is it. It’s got a smooth rush of turbine-like inline power, from low- to high-rpm. The next-level performance advantage that shifting with E-Clutch delivers – if you want it",
+        "image": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/supersports/cbr650r/cbr650r_2024/nh-436m_mattegunpowderblackmetallic/24YM_CBR650R_Studio_MAT_GUNPOWDER_BLACK_METALLIC_MT_RHS.png/jcr:content/renditions/m_r_w.webp"
+    },
+    {
+        "name": "Kawasaki ninja 250",
+        "model": 2024,
+        "color": "black",
+        "weight": "167kg",
+        "seat_height": "795mm",
+        "cc": 250,
+        "price": 4840,
+        "description": "Kawasaki proudly introduces a new sport model into this highly competitive arena. Clad in sharp new Ninja styling, the new Ninja 250 delivers greater performance than its predecessor care of all-new engine and chassis that are more powerful and significantly lighter. But like the Ninja 300/250 that preceded it, this new Ninja model possesses much more than high performance.",
+        "image": "https://kawasaki.com.my/img/product/concept/color/1718868474.hYCUi.jpg"
+    },
+    {
+        "name": "BMW S1000RR",
+        "model": 2024,
+        "color": "white",
+        "weight": "426lb",
+        "seat_height": "832mm",
+        "cc": 1000,
+        "price": 25980,
+        "description": "The RR is now even more focused and more precisely geared towards pure performance. For those who increasingly demand more. More from themselves. More each lap. And more from their RR.",
+        "image": "blob:https://www.bmwmotorcycles.com/ff17c55b-1410-44be-a055-77bc9feea4e7"
+    },
+    {
+        "name": "Honda CBR 1000 RR",
+        "model": 2023,
+        "color": [
+            "pearl, white"
+        ],
+        "weight": "445lb",
+        "seat_height": "831mm",
+        "cc": 1000,
+        "price": 28900,
+        "description": "Honda’s legendary inline-four sportbikes have always combined power, smoothness, performance, refinement, innovation and versatility. And our 2023 CBR1000RR-R Fireblade SP delivers on all those same points, but at a stratospherically higher level. What you see here is a truly track-ready Superbike, but one that’s street legal and as well-rounded as every Honda you’ve ever experienced.",
+        "image": "https://powersports.honda.com/motorcycle/supersport/-/media/products/family/cbr1000rr-r-fireblade-sp/trims/trim-main/cbr1000rr-r-fireblade-sp/2023/2023-cbr1000rr-r-fireblade-sp-pearl_white-650x380.png"
+    },
+    {
+        "name": "Suzuki Gixxer 1000 GSX-R",
+        "model": 2022,
+        "color": "gray",
+        "weight": "201kg",
+        "seat_height": "825mm",
+        "cc": 1000,
+        "price": 15849,
+        "description": "DOHC, inline-four engine produces great top-end power with a strong low- to mid-range pull thanks to the exclusive Suzuki Variable Valve Timing (VVT) system and the highly efficient 4-2-1 exhaust with a revised muffler and heat shield.Advanced electronics include the Suzuki Bi-Directional Quick Shift System as standard equipment, an Inertia Measurement Unit, S-DMS adjustable engine output, and Traction Control* to increase track and street performance.",
+        "image": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r1000a/2022/gallery/gsx-r1000am2_cb8_right_gallery_2400x1500.png?mh=500&mw=768&hash=FBB5497BBFEF99B29C943193A8650E0E"
+    },
+    {
+        "name": "Honda CBR 650R",
+        "model": 2024,
+        "color": "black",
+        "weight": "208kg",
+        "seat_height": "810 mm",
+        "cc": 650,
+        "price": 8599,
+        "description": "Four-cylinder middleweight sports motorcycles are rare, beautiful things. The CBR650R is it. It’s got a smooth rush of turbine-like inline power, from low- to high-rpm. The next-level performance advantage that shifting with E-Clutch delivers – if you want it",
+        "image": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/supersports/cbr650r/cbr650r_2024/nh-436m_mattegunpowderblackmetallic/24YM_CBR650R_Studio_MAT_GUNPOWDER_BLACK_METALLIC_MT_RHS.png/jcr:content/renditions/m_r_w.webp"
+    },
+    {
+        "name": "Honda CBR 650R",
+        "model": 2024,
+        "color": "black",
+        "weight": "208kg",
+        "seat_height": "810 mm",
+        "cc": 650,
+        "price": 8599,
+        "description": "Four-cylinder middleweight sports motorcycles are rare, beautiful things. The CBR650R is it. It’s got a smooth rush of turbine-like inline power, from low- to high-rpm. The next-level performance advantage that shifting with E-Clutch delivers – if you want it",
+        "image": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/supersports/cbr650r/cbr650r_2024/nh-436m_mattegunpowderblackmetallic/24YM_CBR650R_Studio_MAT_GUNPOWDER_BLACK_METALLIC_MT_RHS.png/jcr:content/renditions/m_r_w.webp"
+    },
+    {
+        "name": "Yamaha MT-10",
+        "model": 2024,
+        "color": "black",
+        "weight": "208kg",
+        "seat_height": "810 mm",
+        "cc": 650,
+        "price": 8599,
+        "description": "Four-cylinder middleweight sports motorcycles are rare, beautiful things. The CBR650R is it. It’s got a smooth rush of turbine-like inline power, from low- to high-rpm. The next-level performance advantage that shifting with E-Clutch delivers – if you want it",
+        "image": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/supersports/cbr650r/cbr650r_2024/nh-436m_mattegunpowderblackmetallic/24YM_CBR650R_Studio_MAT_GUNPOWDER_BLACK_METALLIC_MT_RHS.png/jcr:content/renditions/m_r_w.webp"
+    }
+]
